@@ -1,5 +1,5 @@
 # daricoin-genesis
- Daricoin Genesis data
+ Daricoin Genesis data 7 May 2023!
 
  This is a genesis data for Darius Network that powered Daricoin $DARI
 
